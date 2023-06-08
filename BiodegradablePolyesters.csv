@@ -1,4 +1,4 @@
-Polymer Number,Reaction number,Polymer solubility in dichloro methane at a concentration of 40 mg/mL at room temperature,Physical state of the polymer determined by visual observation and polarized microscope analysis,Degradability of the polymer in a clear zone assay using Pseudomonas lemoignei as the microorganism,Monomer 1,Monomer 1 SMILES,Monomer 2,Monomer 2 SMILES,Unit,Mn (kDa),Mw (kDa),D,"Monomer 1:
+Polymer Number,Reaction number,Polymer solubility in dichloro methane at a concentration of 40 mg/mL at room temperature,Physical state of the polymer determined by visual observation and polarized microscope analysis,Degradable,Monomer 1,Monomer 1 SMILES,Monomer 2,Monomer 2 SMILES,SMILES,Mn (kDa),Mw (kDa),D,"Monomer 1:
 Monomer 2 (mole basis)",BigSMILES,Method Key
 1,1,no,solid,yes,Malonyl Chloride,[Cl]C(=O)CC(=O)[Cl],Bisphenol A,Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,C(=O)CC(=O)Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,19.11,41.07,2.15,1:01,"{[][<]C(=O)CC(=O)[<],[>]Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O[>][]}",M32
 2,2,no,solid,yes,Terephthaloyl Chloride,[Cl]C(=O)c1ccc(cc1)C(=O)[Cl],"2,5-
